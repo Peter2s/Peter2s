@@ -1,31 +1,5 @@
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
-<h1 align="center">Hi 👋, I'm Peter Salah </h1>
-<h3 align="center">A Passionate and Aspiring software Engineer</h3>
-<br></br>
 
- ```yaml
-name: Peter Salah 
-located_in: Alexandria, Cairo, Egypt
-current_job: Open Source Developer
-education:
-  [
-  9-Months Graduate Diploma in Open Source Application Development
-  ]
-company: Information Technology Institute (ITI) 
-
-AWS cloud practitioner certified
-
-fields_of_interests:
-  [
-   "Open Source Devloper",
-   "Full stack Devloper",
-    "Cloud",
-    "DevOps",
-    "Java Devloper",
-  ]
-  
-currently_preparing_for: ["AWS Developer associate "]
-<br></br>
 <h1 align="center">Hi 👋, I'm Peter Salah</h1>
 <h3 align="center">A Passionate and Aspiring software Engineer</h3>
 
